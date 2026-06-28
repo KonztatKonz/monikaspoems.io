@@ -1,0 +1,84 @@
+body { /* sets style for body */
+    margin: 0;
+    background-color:#ffcbeb;
+}
+
+h1, h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    color:#ff3ec5;
+}
+
+h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    color:#202020;
+}
+
+p {
+    font-family:cursive;
+    text-align:center;
+    color:#232323; 
+    letter-spacing:0.5px;
+}
+
+.content {
+    text-align:center;
+}
+
+ul {
+    font-family:cursive;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left; 
+    padding-left: 1.5em; 
+}
+
+.act {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    list-style:none;
+    margin: 20px 0 10px -1.5em;
+}
+
+.poem1 {
+    background-image: url("images/border.jpg");
+    background-repeat:no-repeat;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.poem2 {
+    background-image: url("images/border.jpg");
+    background-repeat:no-repeat;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.poem3 {
+    background-image: url("images/border.jpg");
+    background-repeat:no-repeat;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.poem4 {
+    background-image: url("images/border.jpg");
+    background-repeat:no-repeat;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.poem5 {
+    background-image: url("images/border.jpg");
+    background-repeat:no-repeat;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.poem6 {
+    background-image: url("images/border.jpg");
+    background-repeat:no-repeat;
+    margin-left: 20%;
+    margin-right: 20%;
+}
